@@ -9,7 +9,7 @@ I enjoy building clean, reliable systems — from React frontends to Spring Boot
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Java, JavaScript, TypeScript, C#, SQL  
+**Languages:** Java, JavaScript, C#, SQL  
 **Frontend:** React, React Native, Vite  
 **Backend:** Spring Boot, Node.js, REST API, JPA  
 **Infra / Tools:** Docker, GitHub Actions, Jest, JUnit, MySQL  
@@ -19,7 +19,7 @@ I enjoy building clean, reliable systems — from React frontends to Spring Boot
 ## 🚀 Featured Project
 
 ### 🌀 WeatherKings  
-**React + Vite | Spring Boot | MySQL | Docker Compose**  
+**React | Spring Boot | MySQL | Docker Compose**  
 A full-stack game platform where users place Over/Under bets on daily weather events.
 
 
