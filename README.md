@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Manuel 👋
+# Hi, I'm Manuel 
 
 I'm a senior Computer Science student at **UW–Madison** (Graduating Dec 2025)  
 with experience in **full-stack development, mobile apps, and computer vision**.  
@@ -23,7 +23,7 @@ I enjoy building clean, reliable systems — from React frontends to Spring Boot
 A full-stack game platform where users place Over/Under bets on daily weather events.
 
 
-## 📫 Contact
+## Contact
 - Email: manuel.sc.lee@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/manuel-s-lee/
 
