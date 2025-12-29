@@ -10,9 +10,9 @@ I enjoy building clean, reliable systems — from React frontends to Spring Boot
 
 ## Tech Stack
 **Languages:** Java, JavaScript, C#, SQL  
-**Frontend:** React, React Native, Vite  
+**Frontend:** React, React Native, Vite , WPF 
 **Backend:** Spring Boot, Node.js, REST API, JPA  
-**Infra / Tools:** Docker, GitHub Actions, Jest, JUnit, MySQL  
+**Infra / Tools:** Docker, Jest, JUnit, MySQL, OpenCV  
 
 ---
 
