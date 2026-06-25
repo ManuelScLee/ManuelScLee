@@ -1,23 +1,9 @@
 
 
-# Hi, I'm Manuel 
-
-I'm a senior Computer Science student at **UW–Madison** (Graduating Dec 2025)  
-with experience in **full-stack development, mobile apps, and computer vision**.  
-I enjoy building clean, reliable systems — from React frontends to Spring Boot backends and Dockerized deployments.
+# Hi, I'm mani I like Jazz
 
 ---
 
-## Tech Stack
-**Languages:** Java, JavaScript, C#, SQL  
-
-**Frontend:** React, React Native, Vite , WPF
-
-**Backend:** Spring Boot, Node.js, REST API, JPA  
-
-**Infra / Tools:** Docker, Jest, JUnit, MySQL, OpenCV  
-
----
 
 ## Featured Project
 
