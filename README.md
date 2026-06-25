@@ -1,6 +1,6 @@
 
 
-# Hi, I'm mani I like Jazz
+# Hi, I'm mani and I like Jazz
 
 ---
 
